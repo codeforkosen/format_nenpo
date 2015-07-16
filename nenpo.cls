@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ipsj}
+\ProvidesClass{anct}
 \LoadClass[10pt, a4paper, twocolumn]{jsarticle}
 
 %用紙設定
